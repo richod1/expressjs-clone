@@ -23,3 +23,5 @@ Layer.prototype.handle_request=function handle(req,res,next){
     }
 
 }
+
+module.exports=Layer;
